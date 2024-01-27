@@ -1,0 +1,18 @@
+Welcome to Pokemon Emblem by Tam Dang, Joseph He and Dylan Nguyen
+This game is a turn based game where you have two players who can select their own pokemon and move it towards the enemy's
+Each player has 6 pokemon, with a unique moveset, players take turns to move their pokemon and also during battle.
+You have move through the board with the arrow keys, and you select your pokemon by pressing the Z key twice, you press X once you are done 
+with your turn(moving pokemon/battle), the battle phase occurs in the terminal window, where you enter numbers between 1-4 to attack.
+The winners pokemon's Health Points and stats get reset after every battle, the first team that losses 6 pokemon will lose, 
+granting victory to the enemy.
+
+Note:
+If you are player 1, the one who starts on the left hand side, you CAN ONLY BATTLE AGAINST an ENEMY on your RIGHT.
+While if you are player 2, you can ONLY BATTLE AGAINST an ENEMY on your LEFT.
+
+The battle phase should auto start once two enemy pokemon are together like stated above, however, sometimes
+you need to press Z to start the battle(rare)
+
+The battle phase is autorun and you do not need to press anything in between turns, in the rare scenario you tap on 
+another window aside from the terminal/game window then you may need to reselect the game window for the battle phase in the terminal
+to keep operating.
